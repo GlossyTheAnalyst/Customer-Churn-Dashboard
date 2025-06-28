@@ -1,6 +1,6 @@
 # Customer-Churn-Dashboard
 ## Introduction:
-Customer churn is a major concern for businesses, particularly in highly competitive industries such as telecommunications and banking. Understanding why customers leave and identifying who is at risk of leaving—can help organizations improve retention strategies. This Power BI dashboard provides an interactive visualization of churn data, highlighting patterns and trends to support data-driven decision-making.
+Customer churn is a major concern for businesses, particularly in highly competitive industries such as telecommunications and banking. Understanding why customers leave and identifying who is at risk of leaving can help organizations improve retention strategies. This Power BI dashboard provides an interactive visualization of churn data, highlighting patterns and trends to support data-driven decision-making.
 
 ![Churn Modelling](https://github.com/user-attachments/assets/9c5f97d5-1f73-488d-9020-5fb08c29cb45)
 
